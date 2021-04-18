@@ -1,0 +1,35 @@
+
+##### Project has been created using Google Earth Engine
+
+
+## Installation 
+
+'''
+	# For installing Google Earth Engine
+	---> Firstly install the library from requirements.txt file in the conda activated environment
+	
+	---> After installation, in the command prompt, type 'earthengine authenticate' and press enter.
+	
+	---> Browser will popup, enter username: sandyson558 and password: bu82df@sandy1
+	
+	---> After entering the credentials, code will appear, copy the code and paste in command prompt
+	
+	---> Now Successfully earth engine is intalled and activated in the environment created in conda
+	
+'''
+
+
+## Paths 
+
+'''
+	# Scripts and output path
+		
+	---> Scripts are stored in py folder
+	
+	---> Time Series graph will be saved in images folder after script execution
+	
+	
+	
+**** The Final Report with explanation is placed in Report folder ****
+	
+
